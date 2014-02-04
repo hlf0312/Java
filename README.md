@@ -2,3 +2,4 @@
 branch_test
 modify_master
 merge branch
+rebase
